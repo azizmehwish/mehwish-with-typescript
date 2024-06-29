@@ -1,15 +1,17 @@
 {
-  "name": "45ques",
+  "name": "45_question_by_mehwish",
   "version": "1.0.0",
   "description": "��#\u0000 \u0000m\u0000e\u0000h\u0000w\u0000i\u0000s\u0000h\u0000-\u0000w\u0000i\u0000t\u0000h\u0000-\u0000t\u0000y\u0000p\u0000e\u0000s\u0000c\u0000r\u0000i\u0000p\u0000t\u0000\r\u0000 \u0000",
   "main": "27.js",
+  "type": "module",
+  "bin": "27.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "mehwish",
+  "license": "MIT",
   "dependencies": {
-    "@types/node": "^20.13.0"
+    "@types/node": "^20.14.2"
   }
 }

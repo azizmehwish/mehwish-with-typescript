@@ -16,7 +16,7 @@ if (noUser.length === 0) {
 }
 else {
     noUser = [];
-    console.log("all user name has been removed", +noUser.length);
+    console.log("all user name has been removed", noUser.length);
 }
 //assigment no 32
 //• Make a list of five or more usernames called current_users.
